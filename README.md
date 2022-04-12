@@ -1,5 +1,5 @@
 ﻿# nodejs-express-dynamodb-api
 
 ## Instructions:
-## add dynamodb property in .env file. 
-## then run npm run dev
+## 1) add dynamodb property in .env file. 
+## 2) then run npm run dev
